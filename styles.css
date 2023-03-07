@@ -61,7 +61,7 @@ a {
     color: #fff;
     display: flex;
     justify-content: space-between;
-    padding: 48px 0;
+    padding: 108px 0;
 }
 
 .hero1 .container{
@@ -79,7 +79,7 @@ a {
 }
 
 .hero-1 h1{
-    font-size: 48px;
+    font-size: 56px;
     font-weight: 800;
     color: #f9fa98;
     padding: 0;
@@ -87,13 +87,13 @@ a {
 }
 
 span{
-    font-size: 48px;
     color: #fff;
 }
 
 .hero-1 p{
     font-size: 18px;
     color: #e5e7eb;
+    line-height: 28px;
 }
 
 .btn{
@@ -117,8 +117,12 @@ img {
     height: auto;
 }
 
+.hero2{
+    padding: 108px 0;
+    background-color: #e5e7eb;
+}
+
 .hero2-content{
-    padding: 0 48px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -129,21 +133,24 @@ img {
     font-size: 36px;
     font-weight: 700;
     color: #1f2937;
+    padding-bottom: 36px;
 }
 
 .cards{
     display: flex;
     flex: 1;
     gap: 20px;
+    font-size: 18px;
 }
 
 .card{
     width: 100%;
 }
+
 .card img{
     border: #3882f6 solid 2px;
     border-radius: 14px;
     padding: 4px;
-    width: 220px;
-    height: 220px;
+    width: 180px;
+    height: 180px;
 }
