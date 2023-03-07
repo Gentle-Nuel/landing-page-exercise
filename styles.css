@@ -98,10 +98,10 @@ span{
 
 .btn{
     padding: 10px 18px;
-    color: #1f2937;
-    background-color: #fff;
-    border-radius: 20px;
-    font-size: 24px;
+    color: #fff;
+    background-color: #3882f6;
+    border-radius: 14px;
+    font-size: 18px;
     font-weight: bold;
     border: none;
 }
